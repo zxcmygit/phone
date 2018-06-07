@@ -1,0 +1,90 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.main{
+	width: 320px;
+	height: 585px;
+	margin:10px auto;
+	/*border:1px #000 solid;*/
+}
+.left{
+	float: left;
+	margin-top: 100px;
+
+}
+.left1{
+	width: 3px;
+	height: 30px;
+	border:2px #000 solid;
+	background: #000;
+}
+.left2{
+	margin-top: 20px;
+	width: 3px;
+	height: 30px;
+	border:2px #000 solid;
+	background: #000;
+}
+.phone{
+	width: 300px;
+	height: 580px;
+	border:2px #292626 solid;
+	/*display: inline-block;*/
+	border-radius: 25px;
+	float: left;
+	background: #000;
+	/*background: url("gold.jpg");*/
+	background-position: 0 60px;
+}
+.top{
+	width: 250px;
+	height: 30px;
+	margin:10px auto;
+	
+}
+.top1{
+	width: 210px;
+	height: 10px;
+	float: left;
+	border:1px #000 solid;
+	margin-top: 10px;
+	border-radius: 5px;
+	background: url("point.jpg");
+	background-size: cover;
+}
+.top2{
+	width: 10px;
+	height: 10px;
+	
+	border-radius:5px;
+	margin: 10px 0 0 20px;
+	float: left;
+	background: #888282;
+
+}
+.center{
+	/*width: 295px;*/
+	height: 470px;
+	margin:0 auto;
+	border:2px #292626 solid;
+	background: url("back.png");
+	/*background-size: cover;*/
+	background-size: 100% 105%;
+	/*background-position-y: -10px;*/
+}
+.home{
+	width: 40px;
+	height:40px;
+	border:2px white solid;
+	margin:5px auto;
+	border-radius: 20px;
+}
+.right{
+	margin-top: 100px;
+	width: 3px;
+	height: 70px;
+	border:2px #000 solid;
+	float: left;
+	background: #000;
+}
